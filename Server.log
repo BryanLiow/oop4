@@ -1,0 +1,12 @@
+Apr 26, 2019 7:25:30 PM DAOs.Server start
+INFO: Server starting ...
+Apr 26, 2019 7:25:30 PM DAOs.Server start
+WARNING: IOException caught
+Apr 26, 2019 7:25:45 PM DAOs.Server start
+INFO: Server starting ...
+Apr 26, 2019 7:26:57 PM DAOs.Server start
+INFO: A Client has connected from: /127.0.0.1
+Apr 26, 2019 7:27:07 PM DAOs.Server$ClientHandler run
+INFO: Command received from client: getMovieById 14
+Apr 26, 2019 7:29:53 PM DAOs.Server start
+INFO: Server starting ...
